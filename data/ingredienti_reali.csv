@@ -1,0 +1,394 @@
+nome,categoriaAlimentare,colore,consistenza,origine,stagionalita,provenienza_geografica,metodo_produzione,livello_trasformazione,peso_medio_g,durata_conservazione_giorni,prezzo_per_kg,contenuto_acqua_perc,densita_nutrizionale_kcal100g,indice_glicemico
+Pomodoro San Marzano,Vegetale,rosso,morbido,vegetale,estate,mediterraneo,biologico,minimamente_lavorato,80.0,7.0,4.5,94.5,18.0,10.0
+Parmigiano Reggiano 24 mesi,Latticini,giallo,compatto,animale,tutto_anno,locale,tradizionale,lavorato,1000.0,90.0,32.0,32.0,431.0,0.0
+Prosciutto di Parma,Carne,rosa,compatto,animale,tutto_anno,locale,tradizionale,lavorato,500.0,60.0,28.0,63.0,335.0,0.0
+Olio Extra Vergine Toscano,Vegetale,verde_dorato,oleoso,vegetale,autunno,locale,biologico,minimamente_lavorato,500.0,720.0,12.0,0.2,884.0,0.0
+Basilico Genovese DOP,Vegetale,verde,morbido,vegetale,estate,mediterraneo,biologico,crudo,15.0,3.0,8.0,92.1,22.0,5.0
+Mozzarella di Bufala Campana,Latticini,bianco,morbido,animale,tutto_anno,locale,tradizionale,minimamente_lavorato,250.0,3.0,18.0,83.0,253.0,0.0
+Risotto Carnaroli,Cereali,bianco_perla,granulare,vegetale,tutto_anno,locale,tradizionale,lavorato,1000.0,1095.0,3.2,12.8,330.0,69.0
+Salmone Norvegese Selvaggio,Carne,arancione,compatto,marino,tutto_anno,nordico,selvatico,crudo,800.0,2.0,24.0,68.5,208.0,0.0
+Funghi Porcini Freschi,Vegetale,marrone,spugnoso,selvatico,autunno,montano,selvatico,crudo,150.0,3.0,15.0,92.5,26.0,15.0
+Tartufo Nero Umbro,Vegetale,nero,compatto,selvatico,inverno,collinare,selvatico,crudo,50.0,7.0,800.0,75.0,31.0,5.0
+Grana Padano 18 mesi,Latticini,giallo_oro,granulare,animale,tutto_anno,locale,tradizionale,lavorato,1000.0,120.0,26.0,28.4,384.0,0.0
+Bresaola della Valtellina,Carne,rosso_scuro,compatto,animale,tutto_anno,alpino,tradizionale,essiccato,200.0,90.0,45.0,62.8,151.0,0.0
+Pecorino Romano,Latticini,bianco_crema,compatto,animale,tutto_anno,locale,tradizionale,lavorato,800.0,180.0,22.0,30.9,387.0,0.0
+Aceto Balsamico Modena IGP,Vegetale,marrone_scuro,viscoso,vegetale,tutto_anno,locale,tradizionale,fermentato,250.0,1825.0,18.0,76.0,88.0,27.0
+Melanzane Siciliane,Vegetale,viola_scuro,spugnoso,vegetale,estate,mediterraneo,biologico,crudo,300.0,7.0,2.8,92.7,18.0,15.0
+Limoni di Sorrento IGP,Frutta,giallo,compatto,vegetale,inverno,mediterraneo,biologico,crudo,120.0,21.0,3.5,89.0,29.0,25.0
+Carciofi Romani,Vegetale,verde,fibroso,vegetale,primavera,mediterraneo,biologico,crudo,200.0,5.0,4.2,84.9,47.0,5.0
+Peperoncino Calabrese,Vegetale,rosso_vivo,piccante,vegetale,estate,mediterraneo,tradizionale,essiccato,5.0,365.0,12.0,88.0,40.0,10.0
+Farro Toscano IGP,Cereali,marrone_chiaro,granulare,vegetale,tutto_anno,collinare,biologico,lavorato,1000.0,720.0,4.5,10.1,335.0,45.0
+Mandorle di Avola,Frutta,marrone,croccante,vegetale,estate,mediterraneo,tradizionale,essiccato,100.0,180.0,28.0,4.7,579.0,15.0
+Speck Alto Adige,Carne,rosso_rosa,compatto,animale,tutto_anno,alpino,tradizionale,affumicato,300.0,120.0,32.0,55.0,300.0,0.0
+Ricotta di Pecora Sarda,Latticini,bianco,cremoso,animale,primavera,insulare,tradizionale,minimamente_lavorato,500.0,3.0,8.5,71.7,146.0,0.0
+Polpo del Mediterraneo,Carne,grigio_rosa,elastico,marino,autunno,costiero,pesca_sostenibile,crudo,600.0,2.0,18.0,80.3,82.0,0.0
+Baccalà Norvegese,Carne,bianco,fibroso,marino,tutto_anno,nordico,tradizionale,conservato,400.0,365.0,15.0,82.0,95.0,0.0
+Capperi di Pantelleria,Vegetale,verde_scuro,granuloso,vegetale,estate,insulare,tradizionale,conservato,20.0,730.0,8.0,84.0,23.0,5.0
+Zafferano dell'Aquila,Vegetale,rosso_oro,filamentoso,vegetale,autunno,montano,tradizionale,essiccato,1.0,1095.0,3500.0,11.9,310.0,5.0
+Pancetta di Mora Romagnola,Carne,bianco_rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,250.0,90.0,18.0,45.2,337.0,0.0
+Burrata Pugliese,Latticini,bianco,cremoso,animale,tutto_anno,locale,tradizionale,minimamente_lavorato,200.0,2.0,12.0,75.0,330.0,0.0
+Olive Taggiasche,Frutta,verde_nero,carnoso,vegetale,autunno,mediterraneo,tradizionale,conservato,50.0,365.0,15.0,65.3,150.0,15.0
+Guanciale di Amatrice,Carne,bianco_rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,200.0,60.0,22.0,42.5,451.0,0.0
+Vongole Veraci Campane,Carne,bianco_grigio,morbido,marino,primavera,costiero,pesca_sostenibile,crudo,80.0,1.0,25.0,82.0,74.0,0.0
+Rucola Selvatica,Vegetale,verde_scuro,fibroso,selvatico,primavera,mediterraneo,selvatico,crudo,30.0,3.0,6.0,91.7,25.0,5.0
+Caciocavallo Silano,Latticini,giallo_paglierino,elastico,animale,tutto_anno,locale,tradizionale,lavorato,600.0,90.0,16.0,38.6,375.0,0.0
+Tonno Rosso Siciliano,Carne,rosso_scuro,compatto,marino,estate,mediterraneo,pesca_sostenibile,crudo,2000.0,2.0,35.0,68.0,144.0,0.0
+Pinoli di Pino Domestico,Frutta,bianco_crema,oleaginoso,vegetale,autunno,mediterraneo,tradizionale,crudo,30.0,365.0,65.0,5.0,673.0,15.0
+Aglio Rosso di Nubia,Vegetale,rosso_viola,compatto,vegetale,estate,mediterraneo,tradizionale,essiccato,40.0,240.0,8.0,65.0,149.0,30.0
+Castagne del Mugello IGP,Frutta,marrone,farinoso,vegetale,autunno,montano,tradizionale,crudo,200.0,30.0,4.5,52.0,196.0,60.0
+Mortadella Bologna IGP,Carne,rosa,morbido,animale,tutto_anno,locale,tradizionale,lavorato,500.0,45.0,24.0,57.3,288.0,0.0
+Provola Affumicata Silana,Latticini,giallo_oro,elastico,animale,tutto_anno,montano,tradizionale,affumicato,400.0,21.0,14.0,52.0,365.0,0.0
+Radicchio di Treviso IGP,Vegetale,rosso_bordeaux,croccante,vegetale,inverno,locale,tradizionale,crudo,300.0,10.0,3.2,93.8,14.0,10.0
+Nduja di Spilinga,Carne,rosso_piccante,pastoso,animale,tutto_anno,locale,tradizionale,fermentato,150.0,90.0,28.0,45.0,425.0,5.0
+Scamorza di Agerola,Latticini,bianco_dorato,elastico,animale,tutto_anno,locale,tradizionale,lavorato,300.0,14.0,13.5,55.0,334.0,0.0
+Lamponi di Bosco,Frutta,rosso_vivo,morbido,selvatico,estate,montano,selvatico,crudo,100.0,2.0,18.0,85.8,52.0,25.0
+Fichi d'India Siciliani,Frutta,arancione,polposo,vegetale,estate,mediterraneo,tradizionale,crudo,150.0,7.0,2.5,83.2,53.0,35.0
+Asparagi di Altedo IGP,Vegetale,verde_bianco,fibroso,vegetale,primavera,locale,biologico,crudo,150.0,3.0,8.5,93.2,20.0,15.0
+Cozze di Taranto,Carne,nero_arancione,morbido,marino,tutto_anno,costiero,acquacoltura,crudo,100.0,1.0,8.0,82.0,84.0,0.0
+Salame di Felino IGP,Carne,rosso_rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,200.0,120.0,32.0,42.5,376.0,0.0
+Gorgonzola DOP,Latticini,bianco_blu,cremoso,animale,tutto_anno,locale,tradizionale,fermentato,400.0,30.0,16.0,42.4,330.0,0.0
+Gamberi Rossi di Mazara,Carne,rosso_arancione,elastico,marino,tutto_anno,mediterraneo,pesca_sostenibile,crudo,80.0,1.0,45.0,78.0,106.0,0.0
+Castagne di Cuneo IGP,Frutta,marrone_lucido,farinoso,vegetale,autunno,alpino,tradizionale,crudo,180.0,45.0,6.0,48.7,213.0,54.0
+Finocchi di Isola Capo Rizzuto IGP,Vegetale,bianco_verde,croccante,vegetale,inverno,mediterraneo,biologico,crudo,400.0,10.0,2.8,90.7,31.0,5.0
+Taleggio DOP,Latticini,bianco_venato,cremoso,animale,tutto_anno,alpino,tradizionale,lavorato,300.0,30.0,18.0,45.0,315.0,0.0
+Fontina Valle Aosta DOP,Latticini,giallo_paglierino,semi_compatto,animale,tutto_anno,alpino,tradizionale,lavorato,400.0,60.0,22.0,40.5,389.0,0.0
+Asiago DOP,Latticini,giallo_chiaro,compatto,animale,tutto_anno,montano,tradizionale,lavorato,500.0,120.0,20.0,35.0,371.0,0.0
+Provolone Valpadana DOP,Latticini,giallo_oro,compatto,animale,tutto_anno,locale,tradizionale,lavorato,800.0,90.0,19.0,42.0,351.0,0.0
+Coppa di Parma IGP,Carne,rosso_intenso,compatto,animale,tutto_anno,locale,tradizionale,stagionato,180.0,120.0,35.0,35.0,298.0,0.0
+Salame Piacentino DOP,Carne,rosso_vivo,compatto,animale,tutto_anno,locale,tradizionale,stagionato,250.0,90.0,28.0,30.5,425.0,0.0
+Culatello di Zibello DOP,Carne,rosso_rubino,compatto,animale,tutto_anno,locale,tradizionale,stagionato,300.0,180.0,65.0,40.0,217.0,0.0
+Olio Extravergine Umbria DOP,Vegetale,verde_intenso,oleoso,vegetale,autunno,collinare,biologico,minimamente_lavorato,500.0,720.0,15.0,0.1,884.0,0.0
+Olio Terra di Bari DOP,Vegetale,verde_dorato,oleoso,vegetale,autunno,mediterraneo,tradizionale,minimamente_lavorato,500.0,720.0,18.0,0.2,884.0,0.0
+Cipolla Rossa di Tropea IGP,Vegetale,rosso_viola,compatto,vegetale,estate,mediterraneo,tradizionale,crudo,120.0,60.0,3.2,89.1,40.0,10.0
+Pomodori Pachino IGP,Vegetale,rosso_brillante,carnoso,vegetale,estate,mediterraneo,biologico,crudo,50.0,7.0,5.5,94.0,18.0,10.0
+Peperoni di Senise IGP,Vegetale,rosso_cremisi,carnoso,vegetale,estate,mediterraneo,tradizionale,essiccato,15.0,365.0,25.0,10.5,282.0,10.0
+Riso Nano Vialone Veronese IGP,Cereali,bianco_perlato,granulare,vegetale,tutto_anno,locale,tradizionale,lavorato,1000.0,1095.0,4.8,12.0,330.0,87.0
+Fagioli di Lamon IGP,Legumi,bianco_screziato,granulare,vegetale,autunno,montano,tradizionale,essiccato,1000.0,365.0,8.5,11.0,333.0,30.0
+Lenticchie di Castelluccio IGP,Legumi,verde_marrone,granulare,vegetale,estate,montano,biologico,essiccato,1000.0,730.0,12.0,11.5,353.0,25.0
+Nocciole Piemonte IGP,Frutta,marrone_chiaro,croccante,vegetale,autunno,collinare,tradizionale,essiccato,100.0,365.0,32.0,5.3,628.0,15.0
+Pistacchi di Bronte DOP,Frutta,verde_viola,croccante,vegetale,autunno,vulcanico,tradizionale,essiccato,50.0,365.0,85.0,4.2,562.0,15.0
+Kiwi Latina IGP,Frutta,verde_marrone,morbido,vegetale,inverno,mediterraneo,biologico,crudo,90.0,30.0,4.2,83.0,61.0,50.0
+Acciughe di Monterosso,Carne,argento_blu,morbido,marino,primavera_estate,costiero,pesca_sostenibile,conservato,80.0,365.0,18.0,70.0,131.0,0.0
+Bottarga di Muggine Sarda,Carne,ambra_dorato,compatto,marino,tutto_anno,insulare,tradizionale,conservato,100.0,180.0,120.0,25.0,373.0,0.0
+Seppia del Tirreno,Carne,bianco_grigio,elastico,marino,autunno_inverno,costiero,pesca_sostenibile,crudo,400.0,2.0,16.0,81.0,72.0,0.0
+Origano Siciliano,Vegetale,verde_grigio,secco,vegetale,estate,mediterraneo,tradizionale,essiccato,10.0,365.0,15.0,9.9,265.0,5.0
+Rosmarino Toscano,Vegetale,verde_intenso,aghiforme,vegetale,tutto_anno,collinare,biologico,crudo,20.0,14.0,8.0,67.8,131.0,5.0
+Salvia di Lerici,Vegetale,verde_argenteo,vellutato,vegetale,tutto_anno,collinare,tradizionale,crudo,15.0,7.0,12.0,85.0,315.0,5.0
+Zucchina,Vegetale,verde,morbido,vegetale,estate,locale,biologico,crudo,200.0,7.0,2.5,94.6,17.0,15.0
+Carota,Vegetale,arancione,croccante,vegetale,tutto_anno,locale,convenzionale,crudo,100.0,14.0,1.5,88.3,41.0,35.0
+Patata,Vegetale,giallo,farinoso,vegetale,tutto_anno,locale,convenzionale,crudo,150.0,30.0,1.2,79.3,77.0,78.0
+Cipolla Dorata,Vegetale,dorato,compatto,vegetale,tutto_anno,locale,convenzionale,crudo,150.0,60.0,1.4,89.1,40.0,10.0
+Lattuga Romana,Vegetale,verde,croccante,vegetale,primavera,locale,biologico,crudo,300.0,5.0,3.0,94.9,17.0,15.0
+Spinaci Freschi,Vegetale,verde_scuro,morbido,vegetale,primavera,locale,biologico,crudo,200.0,4.0,5.0,91.4,23.0,15.0
+Broccoli,Vegetale,verde,compatto,vegetale,inverno,locale,biologico,crudo,500.0,7.0,3.5,89.3,34.0,15.0
+Cavolfiore,Vegetale,bianco,compatto,vegetale,inverno,locale,convenzionale,crudo,800.0,10.0,2.8,92.1,25.0,15.0
+Sedano,Vegetale,verde_chiaro,fibroso,vegetale,tutto_anno,locale,convenzionale,crudo,400.0,14.0,2.2,95.4,16.0,15.0
+Finocchio,Vegetale,bianco,croccante,vegetale,inverno,locale,biologico,crudo,350.0,10.0,2.5,90.2,31.0,15.0
+Mela Golden,Frutta,giallo_verde,croccante,vegetale,autunno,locale,biologico,crudo,180.0,30.0,2.8,85.6,52.0,38.0
+Pera Williams,Frutta,verde_giallo,morbido,vegetale,estate,locale,convenzionale,crudo,150.0,10.0,3.2,84.0,57.0,38.0
+Banana,Frutta,giallo,morbido,vegetale,tutto_anno,tropicale,convenzionale,crudo,120.0,5.0,1.8,74.9,89.0,51.0
+Arancia Tarocco,Frutta,rosso_arancio,polposo,vegetale,inverno,mediterraneo,biologico,crudo,200.0,14.0,2.5,86.8,47.0,40.0
+Uva Bianca,Frutta,verde_giallo,succoso,vegetale,autunno,locale,convenzionale,crudo,5.0,7.0,4.0,81.5,69.0,53.0
+Fragole,Frutta,rosso,morbido,vegetale,primavera,locale,biologico,crudo,20.0,3.0,8.0,90.9,32.0,40.0
+Mirtilli,Frutta,blu_viola,morbido,selvatico,estate,montano,selvatico,crudo,2.0,5.0,15.0,84.2,57.0,25.0
+Avocado Hass,Frutta,verde_nero,cremoso,vegetale,tutto_anno,subtropicale,biologico,crudo,180.0,5.0,7.0,73.2,160.0,10.0
+Petto di Pollo,Carne,bianco_rosa,fibroso,animale,tutto_anno,locale,allevamento,crudo,500.0,3.0,12.0,74.8,165.0,0.0
+Salsiccia di Maiale,Carne,rosa,morbido,animale,tutto_anno,locale,tradizionale,lavorato,120.0,4.0,10.0,55.0,330.0,0.0
+Macinato di Manzo,Carne,rosso,granulare,animale,tutto_anno,locale,allevamento,crudo,400.0,2.0,14.0,65.0,250.0,0.0
+Agnello (costolette),Carne,rosa_chiaro,compatto,animale,primavera,locale,allevamento,crudo,100.0,3.0,25.0,58.0,282.0,0.0
+Merluzzo,Carne,bianco,sfogliabile,marino,tutto_anno,atlantico,pesca_sostenibile,crudo,300.0,2.0,18.0,81.2,82.0,0.0
+Orata,Carne,argento,compatto,marino,tutto_anno,mediterraneo,acquacoltura,crudo,400.0,2.0,16.0,77.0,96.0,0.0
+Uova di Gallina,Uova,bianco_giallo,liquido_solido,animale,tutto_anno,locale,allevamento_a_terra,crudo,60.0,28.0,4.5,76.1,155.0,0.0
+Latte Intero,Latticini,bianco,liquido,animale,tutto_anno,locale,pastorizzato,minimamente_lavorato,1000.0,5.0,1.8,87.8,61.0,30.0
+Yogurt Bianco Naturale,Latticini,bianco,cremoso,animale,tutto_anno,locale,fermentato,lavorato,125.0,21.0,3.5,88.0,59.0,27.0
+Burro,Latticini,giallo_chiaro,solido,animale,tutto_anno,locale,tradizionale,lavorato,250.0,90.0,12.0,17.9,717.0,0.0
+Panna Fresca,Latticini,bianco,liquido,animale,tutto_anno,locale,pastorizzato,minimamente_lavorato,250.0,7.0,8.0,58.5,340.0,0.0
+Ceci Secchi,Legumi,beige,granulare,vegetale,tutto_anno,mediterraneo,convenzionale,essiccato,1000.0,730.0,4.0,11.2,364.0,28.0
+Fagioli Borlotti Secchi,Legumi,screziato,granulare,vegetale,tutto_anno,locale,biologico,essiccato,1000.0,730.0,5.0,10.5,335.0,40.0
+Piselli Surgelati,Legumi,verde,granulare,vegetale,tutto_anno,locale,convenzionale,surgelato,450.0,540.0,4.5,78.9,81.0,51.0
+Farina 00,Cereali,bianco,polveroso,vegetale,tutto_anno,locale,industriale,raffinato,1000.0,365.0,1.2,15.4,364.0,85.0
+Pasta di Semola,Cereali,giallo_paglierino,compatto,vegetale,tutto_anno,locale,industriale,lavorato,500.0,1095.0,1.5,12.5,359.0,55.0
+Riso Basmati,Cereali,bianco,granulare,vegetale,tutto_anno,asiatico,convenzionale,lavorato,1000.0,1095.0,3.0,12.0,365.0,58.0
+Pane Comune,Cereali,marrone_chiaro,morbido,vegetale,tutto_anno,locale,tradizionale,lavorato,500.0,3.0,3.5,35.7,265.0,75.0
+Quinoa,Cereali,bianco_giallo,granulare,vegetale,tutto_anno,andino,biologico,minimamente_lavorato,500.0,730.0,8.0,13.3,368.0,53.0
+Avena in fiocchi,Cereali,beige,schiacciato,vegetale,tutto_anno,globale,convenzionale,lavorato,500.0,365.0,3.8,10.2,389.0,55.0
+Noci,Frutta,marrone,croccante,vegetale,autunno,locale,tradizionale,essiccato,100.0,180.0,20.0,4.1,654.0,15.0
+Arachidi,Legumi,marrone_chiaro,croccante,vegetale,estate,globale,convenzionale,tostato,250.0,365.0,6.0,6.5,567.0,14.0
+Semi di Girasole,Semi,grigio_bianco,croccante,vegetale,estate,globale,biologico,essiccato,150.0,365.0,5.0,4.7,584.0,35.0
+Semi di Zucca,Semi,verde_scuro,croccante,vegetale,autunno,locale,biologico,essiccato,150.0,365.0,8.0,5.2,559.0,25.0
+Semi di Lino,Semi,marrone,granulare,vegetale,tutto_anno,globale,biologico,essiccato,200.0,365.0,4.5,6.9,534.0,0.0
+Zucchero Bianco,Dolcificanti,bianco,cristallino,vegetale,tutto_anno,globale,industriale,raffinato,1000.0,1825.0,1.2,0.0,387.0,65.0
+Miele di Acacia,Dolcificanti,giallo_chiaro,viscoso,animale,primavera,locale,tradizionale,minimamente_lavorato,500.0,1095.0,15.0,17.1,304.0,58.0
+Cioccolato Fondente 70%,Dolci,marrone_scuro,compatto,vegetale,tutto_anno,globale,industriale,lavorato,100.0,365.0,18.0,1.4,598.0,25.0
+Caffè in grani,Bevande,marrone,tostato,vegetale,tutto_anno,tropicale,tradizionale,tostato,500.0,180.0,22.0,2.8,0.0,0.0
+Vino Rosso,Bevande,rosso_rubino,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,750.0,1095.0,8.0,86.0,85.0,0.0
+Birra Chiara,Bevande,giallo_dorato,liquido,vegetale,tutto_anno,locale,industriale,fermentato,330.0,365.0,3.0,91.9,43.0,110.0
+Tofu,Legumi,bianco,morbido,vegetale,tutto_anno,asiatico,tradizionale,lavorato,250.0,7.0,9.0,84.6,76.0,15.0
+Tempeh,Legumi,bianco_marrone,compatto,vegetale,tutto_anno,asiatico,tradizionale,fermentato,200.0,7.0,12.0,60.0,193.0,15.0
+Edamame,Legumi,verde,morbido,vegetale,estate,asiatico,biologico,surgelato,300.0,365.0,8.0,75.2,122.0,15.0
+Alga Nori,Vegetale,verde_scuro,secco,marino,tutto_anno,asiatico,tradizionale,essiccato,20.0,730.0,40.0,6.0,35.0,5.0
+Salsa di Soia,Condimenti,marrone_scuro,liquido,vegetale,tutto_anno,asiatico,tradizionale,fermentato,150.0,730.0,10.0,68.0,53.0,10.0
+Zenzero Fresco,Vegetale,beige,fibroso,vegetale,tutto_anno,tropicale,convenzionale,crudo,100.0,21.0,7.0,78.9,80.0,15.0
+Curcuma in polvere,Spezie,arancione,polveroso,vegetale,tutto_anno,asiatico,tradizionale,essiccato,50.0,1095.0,15.0,11.4,354.0,0.0
+Pepe Nero in grani,Spezie,nero,granulare,vegetale,tutto_anno,tropicale,tradizionale,essiccato,50.0,1825.0,25.0,12.5,251.0,0.0
+Sale Marino,Condimenti,bianco,cristallino,minerale,tutto_anno,costiero,tradizionale,minimamente_lavorato,1000.0,99999.0,1.0,0.2,0.0,0.0
+Mais in scatola,Cereali,giallo,granulare,vegetale,tutto_anno,globale,convenzionale,conservato,300.0,1095.0,4.0,82.0,65.0,52.0
+Tonno in scatola (olio),Carne,rosa_chiaro,sfaldabile,marino,tutto_anno,globale,industriale,conservato,80.0,1825.0,15.0,59.8,198.0,0.0
+Cetriolo,Vegetale,verde,croccante,vegetale,estate,locale,convenzionale,crudo,300.0,10.0,2.0,95.2,15.0,15.0
+Ravanello,Vegetale,rosso,croccante,vegetale,primavera,locale,biologico,crudo,20.0,7.0,4.0,95.3,16.0,15.0
+Fico,Frutta,viola_verde,morbido,vegetale,estate,mediterraneo,tradizionale,crudo,50.0,3.0,6.0,79.1,74.0,35.0
+Ciliegia,Frutta,rosso_scuro,succoso,vegetale,estate,locale,biologico,crudo,8.0,5.0,9.0,82.2,63.0,22.0
+Melone Cantalupo,Frutta,arancione,succoso,vegetale,estate,locale,convenzionale,crudo,1200.0,7.0,1.5,90.1,34.0,65.0
+Anguria,Frutta,rosso,acquoso,vegetale,estate,locale,convenzionale,crudo,5000.0,14.0,0.8,91.4,30.0,72.0
+Pompelmo Rosa,Frutta,rosa,succoso,vegetale,inverno,mediterraneo,biologico,crudo,300.0,14.0,3.0,90.9,32.0,25.0
+Kiwi,Frutta,verde,morbido,vegetale,inverno,globale,convenzionale,crudo,100.0,21.0,4.0,83.1,61.0,53.0
+Mango,Frutta,arancione,morbido,vegetale,tutto_anno,tropicale,convenzionale,crudo,300.0,5.0,6.0,83.5,60.0,51.0
+Ananas,Frutta,giallo,fibroso,vegetale,tutto_anno,tropicale,convenzionale,crudo,1500.0,7.0,2.2,86.0,50.0,59.0
+Cocco,Frutta,bianco,fibroso,vegetale,tutto_anno,tropicale,tradizionale,crudo,800.0,14.0,3.5,47.0,354.0,45.0
+Barbabietola Rossa,Vegetale,rosso_viola,compatto,vegetale,tutto_anno,locale,biologico,crudo,200.0,14.0,2.5,87.6,43.0,64.0
+Zucca Violina,Vegetale,arancione,pastoso,vegetale,autunno,locale,biologico,crudo,1500.0,60.0,1.8,86.4,45.0,51.0
+Porro,Vegetale,bianco_verde,fibroso,vegetale,inverno,locale,convenzionale,crudo,150.0,14.0,3.0,83.0,61.0,15.0
+Aglio,Vegetale,bianco,compatto,vegetale,tutto_anno,locale,tradizionale,crudo,10.0,120.0,7.0,59.0,149.0,30.0
+Prezzemolo,Vegetale,verde,morbido,vegetale,tutto_anno,locale,biologico,crudo,30.0,5.0,10.0,87.7,36.0,5.0
+Coriandolo Fresco,Vegetale,verde,morbido,vegetale,estate,globale,biologico,crudo,20.0,5.0,12.0,92.2,23.0,5.0
+Menta,Vegetale,verde,morbido,vegetale,estate,locale,biologico,crudo,15.0,4.0,15.0,86.0,44.0,5.0
+Tacchino (fesa),Carne,bianco_rosa,fibroso,animale,tutto_anno,locale,allevamento,crudo,400.0,3.0,14.0,74.0,135.0,0.0
+Coniglio,Carne,bianco_rosa,compatto,animale,tutto_anno,locale,allevamento,crudo,1000.0,3.0,13.0,72.0,173.0,0.0
+Fegato di Vitello,Carne,marrone_rosso,morbido,animale,tutto_anno,locale,allevamento,crudo,300.0,2.0,20.0,70.0,135.0,0.0
+Scampi,Carne,rosa_arancio,elastico,marino,tutto_anno,mediterraneo,pesca_sostenibile,crudo,50.0,1.0,50.0,77.0,91.0,0.0
+Alici,Carne,argento,morbido,marino,primavera,mediterraneo,pesca_sostenibile,crudo,30.0,1.0,10.0,72.0,131.0,0.0
+Sgombro,Carne,grigio_blu,compatto,marino,tutto_anno,atlantico,pesca_sostenibile,crudo,300.0,2.0,8.0,63.0,205.0,0.0
+Sarda,Carne,argento,compatto,marino,primavera,mediterraneo,pesca_sostenibile,crudo,100.0,1.0,6.0,70.0,125.0,0.0
+Emmental,Latticini,giallo_chiaro,compatto,animale,tutto_anno,alpino,tradizionale,lavorato,300.0,45.0,18.0,37.1,380.0,0.0
+Feta,Latticini,bianco,friabile,animale,tutto_anno,mediterraneo,tradizionale,lavorato,200.0,30.0,15.0,55.2,264.0,0.0
+Mascarpone,Latticini,bianco_crema,cremoso,animale,tutto_anno,locale,tradizionale,minimamente_lavorato,250.0,5.0,10.0,48.0,430.0,0.0
+Farro Perlato,Cereali,marrone_chiaro,granulare,vegetale,tutto_anno,locale,biologico,lavorato,500.0,730.0,5.0,11.0,338.0,40.0
+Orzo Perlato,Cereali,beige,granulare,vegetale,tutto_anno,locale,convenzionale,lavorato,500.0,730.0,3.5,10.0,352.0,25.0
+Couscous,Cereali,giallo_chiaro,granulare,vegetale,tutto_anno,mediterraneo,industriale,lavorato,500.0,1095.0,3.0,12.0,376.0,65.0
+Amaranto,Cereali,beige,granulare,vegetale,tutto_anno,andino,biologico,minimamente_lavorato,400.0,730.0,9.0,11.3,371.0,35.0
+Grano Saraceno,Cereali,marrone_grigio,granulare,vegetale,tutto_anno,locale,biologico,minimamente_lavorato,500.0,730.0,6.0,10.0,343.0,40.0
+Anacardi,Frutta,bianco_crema,croccante,vegetale,tutto_anno,tropicale,convenzionale,tostato,150.0,180.0,25.0,5.2,553.0,22.0
+Noci di Macadamia,Frutta,bianco,burroso,vegetale,tutto_anno,subtropicale,convenzionale,essiccato,100.0,180.0,35.0,1.4,718.0,15.0
+Noci Pecan,Frutta,marrone,croccante,vegetale,autunno,americano,convenzionale,essiccato,100.0,180.0,28.0,3.5,691.0,10.0
+Datteri Medjoul,Frutta,marrone,morbido,vegetale,tutto_anno,mediorientale,tradizionale,essiccato,200.0,180.0,20.0,21.3,277.0,42.0
+Fichi Secchi,Frutta,marrone_chiaro,gommoso,vegetale,tutto_anno,mediterraneo,tradizionale,essiccato,250.0,240.0,12.0,30.0,249.0,61.0
+Prugne Secche,Frutta,nero_viola,morbido,vegetale,tutto_anno,globale,tradizionale,essiccato,250.0,240.0,10.0,31.0,240.0,29.0
+Uvetta,Frutta,marrone_scuro,gommoso,vegetale,tutto_anno,mediterraneo,tradizionale,essiccato,200.0,365.0,7.0,15.4,299.0,64.0
+Olio di Cocco,Vegetale,bianco,solido,vegetale,tutto_anno,tropicale,industriale,raffinato,500.0,730.0,14.0,0.1,862.0,0.0
+Olio di Semi di Girasole,Vegetale,giallo_chiaro,oleoso,vegetale,tutto_anno,globale,industriale,raffinato,1000.0,730.0,3.0,0.0,884.0,0.0
+Aceto di Mele,Vegetale,giallo_ambrato,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,500.0,1825.0,4.0,94.0,21.0,5.0
+Senape di Digione,Condimenti,giallo_marrone,cremoso,vegetale,tutto_anno,europeo,tradizionale,lavorato,200.0,365.0,8.0,70.0,143.0,5.0
+Maionese,Condimenti,bianco_giallo,cremoso,misto,tutto_anno,globale,industriale,lavorato,250.0,180.0,7.0,15.0,720.0,0.0
+Ketchup,Condimenti,rosso,viscoso,vegetale,tutto_anno,globale,industriale,lavorato,500.0,365.0,4.0,68.0,112.0,55.0
+Paprika Dolce,Spezie,rosso,polveroso,vegetale,tutto_anno,europeo,tradizionale,essiccato,50.0,730.0,12.0,8.8,282.0,5.0
+Peperoncino in polvere,Spezie,rosso_vivo,polveroso,vegetale,tutto_anno,globale,tradizionale,essiccato,50.0,730.0,15.0,5.0,282.0,10.0
+Cannella in polvere,Spezie,marrone,polveroso,vegetale,tutto_anno,asiatico,tradizionale,essiccato,40.0,1095.0,20.0,10.6,247.0,5.0
+Noce Moscata,Spezie,marrone,compatto,vegetale,tutto_anno,tropicale,tradizionale,essiccato,30.0,1825.0,30.0,6.2,525.0,5.0
+Chiodi di Garofano,Spezie,marrone_scuro,compatto,vegetale,tutto_anno,asiatico,tradizionale,essiccato,25.0,1825.0,35.0,9.9,323.0,5.0
+Spaghetti,Cereali,giallo_chiaro,rigido,vegetale,tutto_anno,locale,tradizionale,lavorato,500.0,730.0,1.2,12.0,371.0,45.0
+Uova,Latticini,bianco_giallo,liquido,animale,tutto_anno,locale,tradizionale,crudo,60.0,28.0,3.5,76.0,155.0,0.0
+Guanciale,Carne,bianco_rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,200.0,30.0,15.0,35.0,451.0,0.0
+Pepe nero,Spezie,nero,granulare,vegetale,tutto_anno,asiatico,tradizionale,essiccato,20.0,1095.0,25.0,12.5,251.0,5.0
+Farina 00,Cereali,bianco,polveroso,vegetale,tutto_anno,locale,tradizionale,lavorato,1000.0,365.0,0.8,11.0,364.0,70.0
+Sale,Minerali,bianco,cristallino,minerale,tutto_anno,globale,estrattivo,raffinato,1000.0,3650.0,0.5,0.0,0.0,0.0
+Brodo di Carne,Liquidi,marrone,liquido,animale,tutto_anno,locale,tradizionale,preparato,1000.0,3.0,2.5,95.0,15.0,0.0
+Cipolla,Vegetale,bianco_viola,compatto,vegetale,tutto_anno,locale,tradizionale,crudo,150.0,30.0,1.2,89.1,40.0,25.0
+Vino Bianco,Bevande,giallo_chiaro,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,750.0,1095.0,8.0,87.0,82.0,0.0
+Burro,Latticini,giallo,cremoso,animale,tutto_anno,locale,tradizionale,lavorato,250.0,60.0,6.5,15.8,717.0,0.0
+Zafferano,Spezie,rosso_oro,filamentoso,vegetale,autunno,mediterraneo,tradizionale,essiccato,5.0,730.0,2000.0,11.9,310.0,5.0
+Carote,Vegetale,arancione,compatto,vegetale,tutto_anno,locale,tradizionale,crudo,120.0,14.0,1.5,88.0,41.0,35.0
+Sedano,Vegetale,verde,fibroso,vegetale,tutto_anno,locale,tradizionale,crudo,100.0,7.0,2.0,95.4,16.0,10.0
+Aglio,Vegetale,bianco,compatto,vegetale,tutto_anno,locale,tradizionale,crudo,6.0,180.0,4.0,59.0,149.0,30.0
+Prezzemolo,Vegetale,verde,morbido,vegetale,tutto_anno,locale,tradizionale,crudo,50.0,7.0,5.0,87.7,36.0,5.0
+Mascarpone,Latticini,bianco_crema,cremoso,animale,tutto_anno,locale,tradizionale,lavorato,250.0,7.0,12.0,55.0,429.0,0.0
+Savoiardi,Dolci,dorato,croccante,misto,tutto_anno,locale,tradizionale,lavorato,200.0,90.0,8.0,6.0,400.0,70.0
+Zucchero,Dolcificanti,bianco,cristallino,vegetale,tutto_anno,globale,raffinato,lavorato,1000.0,730.0,1.2,0.0,387.0,100.0
+Caffè,Bevande,marrone_scuro,liquido,vegetale,tutto_anno,tropicale,tradizionale,preparato,250.0,1.0,15.0,99.4,2.0,0.0
+Cacao amaro,Dolci,marrone_scuro,polveroso,vegetale,tutto_anno,tropicale,tradizionale,lavorato,250.0,730.0,25.0,3.0,228.0,15.0
+Marsala,Bevande,ambra,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,750.0,1095.0,18.0,83.0,139.0,0.0
+Panna,Latticini,bianco,cremoso,animale,tutto_anno,locale,tradizionale,lavorato,250.0,5.0,4.5,57.7,337.0,0.0
+Pinoli,Frutta_Secca,bianco_crema,compatto,vegetale,autunno,mediterraneo,tradizionale,crudo,100.0,180.0,45.0,2.3,673.0,15.0
+Latte,Latticini,bianco,liquido,animale,tutto_anno,locale,tradizionale,crudo,1000.0,5.0,1.8,87.8,64.0,30.0
+Carne Macinata,Carne,rosso,granulare,animale,tutto_anno,locale,tradizionale,lavorato,500.0,2.0,8.0,73.0,254.0,0.0
+Scaloppine di Vitello,Carne,rosa_chiaro,sottile,animale,tutto_anno,locale,tradizionale,crudo,150.0,2.0,22.0,75.0,109.0,0.0
+Salvia,Vegetale,verde_grigio,morbido,vegetale,tutto_anno,mediterraneo,tradizionale,crudo,10.0,7.0,6.0,85.0,315.0,5.0
+Pane Pugliese,Cereali,dorato,compatto,vegetale,tutto_anno,locale,tradizionale,lavorato,400.0,3.0,3.0,36.0,265.0,70.0
+Bistecca di Manzo,Carne,rosso,compatto,animale,tutto_anno,locale,tradizionale,crudo,300.0,3.0,25.0,71.0,250.0,0.0
+Vino Rosso,Bevande,rosso_rubino,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,750.0,1095.0,12.0,86.0,85.0,0.0
+Vongole,Frutti_Mare,bianco_grigio,compatto,marino,primavera_estate,costiero,selvatico,crudo,200.0,1.0,12.0,82.0,74.0,0.0
+Gorgonzola,Latticini,bianco_blu,cremoso,animale,tutto_anno,locale,tradizionale,stagionato,200.0,30.0,15.0,42.0,353.0,0.0
+Farina di Mais,Cereali,giallo,polveroso,vegetale,tutto_anno,locale,tradizionale,lavorato,1000.0,365.0,2.0,12.5,362.0,68.0
+Melanzane Siciliane,Vegetale,viola_scuro,spugnoso,vegetale,estate,mediterraneo,biologico,crudo,300.0,7.0,2.8,92.7,18.0,15.0
+Fagioli Cannellini,Legumi,bianco,granulare,vegetale,autunno,locale,tradizionale,secco,500.0,365.0,4.5,11.0,333.0,35.0
+Patate,Vegetale,giallo_chiaro,compatto,vegetale,tutto_anno,locale,tradizionale,crudo,200.0,30.0,1.8,78.9,77.0,85.0
+Limone,Frutta,giallo,compatto,vegetale,inverno,mediterraneo,biologico,crudo,120.0,21.0,3.5,89.0,29.0,25.0
+Rucola,Vegetale,verde_scuro,morbido,vegetale,primavera,mediterraneo,biologico,crudo,50.0,3.0,4.0,91.7,25.0,5.0
+Cioccolato Fondente,Dolci,marrone_scuro,compatto,vegetale,tutto_anno,tropicale,tradizionale,lavorato,100.0,365.0,25.0,1.7,546.0,25.0
+Vaniglia,Spezie,marrone_chiaro,aromatico,vegetale,tutto_anno,tropicale,tradizionale,essiccato,50.0,730.0,180.0,12.6,288.0,5.0
+Piselli,Vegetale,verde,sferico,vegetale,primavera,locale,tradizionale,crudo,150.0,5.0,3.5,78.9,81.0,48.0
+Pangrattato,Cereali,dorato,granulare,vegetale,tutto_anno,locale,tradizionale,lavorato,200.0,180.0,2.5,10.0,395.0,75.0
+Olio di Semi,Grassi,giallo_chiaro,oleoso,vegetale,tutto_anno,globale,industriale,raffinato,1000.0,720.0,3.5,0.1,884.0,0.0
+Vitello,Carne,rosa_chiaro,compatto,animale,tutto_anno,locale,tradizionale,crudo,1000.0,3.0,18.0,76.0,131.0,0.0
+Tonno,Pesce,rosa,compatto,marino,tutto_anno,oceano,selvatico,conservato,200.0,1095.0,8.0,60.0,144.0,0.0
+Capperi,Vegetale,verde_scuro,piccolo,vegetale,estate,mediterraneo,tradizionale,conservato,100.0,365.0,12.0,83.9,23.0,5.0
+Acciughe,Pesce,grigio_argento,compatto,marino,tutto_anno,mediterraneo,tradizionale,conservato,50.0,365.0,15.0,73.4,131.0,0.0
+Acqua,Liquidi,trasparente,liquido,minerale,tutto_anno,globale,naturale,puro,1000.0,3650.0,0.01,100.0,0.0,0.0
+Pasta Mista,Cereali,vario,rigido,vegetale,tutto_anno,locale,tradizionale,lavorato,500.0,730.0,1.8,12.0,371.0,45.0
+Rosmarino,Vegetale,verde,aghiforme,vegetale,tutto_anno,mediterraneo,tradizionale,crudo,20.0,14.0,8.0,67.8,331.0,5.0
+Brodo Vegetale,Liquidi,giallo_chiaro,liquido,vegetale,tutto_anno,locale,tradizionale,preparato,1000.0,3.0,2.0,96.0,12.0,5.0
+Filetto di Manzo,Carne,rosso_scuro,tenero,animale,tutto_anno,locale,tradizionale,crudo,200.0,3.0,35.0,73.0,158.0,0.0
+Lievito di Birra,Lieviti,beige,granulare,fermentato,tutto_anno,globale,industriale,fresco,25.0,7.0,8.0,79.0,105.0,35.0
+Pomodorini,Vegetale,rosso,piccolo,vegetale,estate,mediterraneo,biologico,crudo,20.0,7.0,5.0,94.0,18.0,10.0
+Olive Taggiasche,Vegetale,nero_viola,oleoso,vegetale,autunno,mediterraneo,tradizionale,conservato,100.0,365.0,18.0,75.4,115.0,15.0
+Ricotta Salata,Latticini,bianco,granulare,animale,tutto_anno,locale,tradizionale,stagionato,200.0,30.0,12.0,52.0,271.0,0.0
+Osso di Prosciutto,Carne,rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,800.0,90.0,18.0,60.0,250.0,0.0
+Baccalà,Pesce,bianco,compatto,marino,tutto_anno,nordico,tradizionale,conservato,500.0,180.0,25.0,82.0,290.0,0.0
+Zucchine,Vegetale,verde,compatto,vegetale,estate,locale,tradizionale,crudo,200.0,7.0,2.5,95.0,17.0,15.0
+Cavolo,Vegetale,verde,compatto,vegetale,inverno,locale,tradizionale,crudo,300.0,14.0,2.0,92.2,25.0,25.0
+Spinaci,Vegetale,verde_scuro,morbido,vegetale,primavera,locale,tradizionale,crudo,200.0,3.0,4.5,91.4,23.0,15.0
+Cotoletta di Vitello,Carne,rosa_chiaro,compatto,animale,tutto_anno,locale,tradizionale,crudo,200.0,2.0,22.0,75.0,109.0,0.0
+Brasato di Manzo,Carne,rosso_scuro,compatto,animale,tutto_anno,locale,tradizionale,crudo,1000.0,3.0,20.0,75.0,250.0,0.0
+Vino Barolo,Bevande,rosso_rubino,liquido,vegetale,tutto_anno,locale,tradizionale,fermentato,750.0,1095.0,25.0,85.0,85.0,0.0
+Alloro,Spezie,verde_scuro,secco,vegetale,tutto_anno,mediterraneo,tradizionale,essiccato,10.0,365.0,8.0,7.6,313.0,5.0
+Pasta Frolla,Dolci,dorato,solido,misto,tutto_anno,locale,tradizionale,lavorato,500.0,3.0,8.0,20.0,429.0,65.0
+Crema Pasticcera,Dolci,giallo,cremoso,misto,tutto_anno,locale,tradizionale,preparato,250.0,3.0,6.0,72.0,142.0,15.0
+Zucchero a Velo,Dolcificanti,bianco,polveroso,vegetale,tutto_anno,globale,raffinato,lavorato,500.0,730.0,2.0,0.5,389.0,100.0
+Ceci,Legumi,beige,sferico,vegetale,tutto_anno,mediterraneo,tradizionale,secco,400.0,365.0,3.5,10.7,316.0,33.0
+Taleggio,Latticini,bianco_rosa,cremoso,animale,tutto_anno,locale,tradizionale,stagionato,200.0,21.0,18.0,48.0,315.0,0.0
+Noci,Frutta_Secca,marrone,compatto,vegetale,autunno,locale,tradizionale,crudo,100.0,180.0,28.0,4.1,654.0,15.0
+Pistacchi di Bronte,Frutta_Secca,verde,compatto,vegetale,autunno,siciliano,tradizionale,crudo,100.0,180.0,45.0,4.4,562.0,15.0
+Grana Padano,Latticini,giallo_oro,granulare,animale,tutto_anno,locale,tradizionale,lavorato,1000.0,120.0,26.0,28.4,384.0,0.0
+Branzino,Pesce,argento,compatto,marino,tutto_anno,mediterraneo,selvatico,crudo,400.0,2.0,18.0,78.0,82.0,0.0
+Agnello,Carne,rosa,tenero,animale,primavera,locale,tradizionale,crudo,1000.0,3.0,25.0,76.0,158.0,0.0
+Seppia,Frutti_Mare,bianco,tenero,marino,primavera,mediterraneo,selvatico,crudo,300.0,1.0,15.0,81.0,92.0,0.0
+Pasta Sfoglia,Dolci,dorato,sottile,misto,tutto_anno,locale,tradizionale,lavorato,500.0,7.0,9.0,25.0,558.0,70.0
+Tortellini,Cereali,giallo,ripieno,misto,tutto_anno,locale,tradizionale,fresco,300.0,3.0,8.0,30.0,268.0,45.0
+Salsiccia,Carne,rosa,compatto,animale,tutto_anno,locale,tradizionale,crudo,300.0,5.0,12.0,55.0,304.0,0.0
+Funghi Porcini,Vegetale,marrone,spugnoso,selvatico,autunno,montano,selvatico,crudo,150.0,3.0,15.0,92.5,26.0,15.0
+Speck,Carne,rosa,affumicato,animale,tutto_anno,alpino,tradizionale,stagionato,200.0,60.0,18.0,55.0,303.0,0.0
+Fagioli di Lamon,Legumi,screziato,granulare,vegetale,autunno,montano,tradizionale,secco,400.0,365.0,5.0,11.5,325.0,35.0
+Aceto,Condimenti,trasparente,liquido,vegetale,tutto_anno,globale,tradizionale,fermentato,500.0,1095.0,2.0,95.0,18.0,0.0
+Mortadella,Carne,rosa,compatto,animale,tutto_anno,locale,tradizionale,lavorato,300.0,21.0,8.0,65.0,288.0,0.0
+Ricotta,Latticini,bianco,cremoso,animale,tutto_anno,locale,tradizionale,fresco,250.0,3.0,4.0,71.7,174.0,0.0
+Pancetta,Carne,bianco_rosa,compatto,animale,tutto_anno,locale,tradizionale,stagionato,200.0,30.0,12.0,50.0,458.0,0.0
+Cipolla di Tropea,Vegetale,rosso_viola,dolce,vegetale,estate,calabrese,tradizionale,crudo,150.0,14.0,3.5,89.0,40.0,25.0
+Peperoni di Senise,Vegetale,rosso,dolce,vegetale,estate,lucano,tradizionale,essiccato,100.0,180.0,8.0,12.0,282.0,25.0
+Lenticchie di Castelluccio,Legumi,verde_screziato,granulare,vegetale,autunno,umbro,tradizionale,secco,400.0,365.0,6.0,8.0,353.0,30.0
+Mascarpone per Cannoli,Latticini,bianco,cremoso,animale,tutto_anno,siciliano,tradizionale,fresco,250.0,5.0,15.0,55.0,429.0,0.0
+Pistacchi per Dolci,Frutta_Secca,verde,granulare,vegetale,autunno,siciliano,tradizionale,tritato,100.0,180.0,50.0,4.0,562.0,15.0
+Cioccolato per Cannoli,Dolci,marrone_scuro,solido,vegetale,tutto_anno,globale,tradizionale,chips,100.0,365.0,28.0,1.0,534.0,25.0
+Manzo per Spezzatino,Carne,rosso,compatto,animale,tutto_anno,locale,tradizionale,a_pezzi,500.0,3.0,20.0,75.0,250.0,0.0
+Cavolo Nero,Vegetale,verde_scuro,foglia,vegetale,inverno,toscano,tradizionale,crudo,300.0,7.0,3.5,90.0,25.0,15.0
+Timo,Spezie,verde,aromatico,vegetale,tutto_anno,mediterraneo,tradizionale,secco,15.0,365.0,12.0,7.8,276.0,5.0
+Sale Grosso,Minerali,bianco,cristallino,minerale,tutto_anno,globale,estrattivo,raffinato,1000.0,3650.0,0.8,0.0,0.0,0.0
+Rum,Bevande,ambra,liquido,vegetale,tutto_anno,tropicale,tradizionale,distillato,750.0,1095.0,45.0,60.0,231.0,0.0
+Sciroppo di Zucchero,Dolcificanti,trasparente,viscoso,vegetale,tutto_anno,globale,industriale,preparato,500.0,365.0,2.5,20.0,304.0,100.0
+Gelatina,Addensanti,trasparente,granulare,animale,tutto_anno,globale,industriale,in_polvere,25.0,730.0,8.0,13.0,338.0,0.0
+Zucca,Vegetale,arancione,polposo,vegetale,autunno,locale,tradizionale,crudo,1000.0,30.0,2.0,94.6,26.0,75.0
+Pollo,Carne,bianco_rosa,tenero,animale,tutto_anno,locale,tradizionale,crudo,1500.0,3.0,18.0,75.0,165.0,0.0
+Peperoni,Vegetale,rosso_giallo,croccante,vegetale,estate,locale,tradizionale,crudo,200.0,7.0,3.0,92.0,31.0,15.0
+Tahina,Condimenti,beige,cremoso,vegetale,tutto_anno,mediorientale,tradizionale,pasta,250.0,365.0,12.0,3.0,595.0,35.0
+Avocado,Frutta,verde,cremoso,vegetale,tutto_anno,tropicale,tradizionale,crudo,200.0,5.0,8.0,73.2,160.0,40.0
+Coriandolo,Spezie,verde,aromatico,vegetale,tutto_anno,asiatico,tradizionale,fresco,50.0,7.0,5.0,92.2,23.0,5.0
+Lime,Frutta,verde,acido,vegetale,tutto_anno,tropicale,tradizionale,crudo,100.0,21.0,4.0,88.3,30.0,25.0
+Salmone,Pesce,rosa,compatto,marino,tutto_anno,nordico,selvatico,crudo,200.0,2.0,22.0,68.5,208.0,0.0
+Alga Nori,Vegetale,verde_scuro,sottile,marino,tutto_anno,asiatico,tradizionale,essiccato,25.0,730.0,15.0,11.8,347.0,5.0
+Riso per Sushi,Cereali,bianco_perla,granulare,vegetale,tutto_anno,asiatico,tradizionale,lavorato,500.0,365.0,2.8,12.0,356.0,87.0
+Philadelphia,Latticini,bianco,cremoso,animale,tutto_anno,globale,industriale,spalmabile,200.0,14.0,8.0,55.3,342.0,0.0
+Wasabi,Condimenti,verde,piccante,vegetale,tutto_anno,asiatico,tradizionale,pasta,50.0,365.0,25.0,69.1,109.0,15.0
+Salsa di Soia,Condimenti,marrone_scuro,liquido,vegetale,tutto_anno,asiatico,tradizionale,fermentato,250.0,730.0,3.5,68.9,60.0,20.0
+Zenzero,Spezie,beige,piccante,vegetale,tutto_anno,asiatico,tradizionale,fresco,100.0,14.0,6.0,78.9,80.0,15.0
+Aceto di Riso,Condimenti,trasparente,acido,vegetale,tutto_anno,asiatico,tradizionale,fermentato,250.0,730.0,5.0,94.8,18.0,0.0
+Biscotti Digestive,Dolci,dorato,croccante,misto,tutto_anno,globale,industriale,confezionato,200.0,180.0,5.0,3.2,471.0,65.0
+Frutti di Bosco,Frutta,rosso_viola,succoso,vegetale,estate,locale,tradizionale,crudo,200.0,3.0,8.0,85.0,57.0,25.0
+Tagliatelle di Riso,Cereali,bianco,sottile,vegetale,tutto_anno,asiatico,tradizionale,lavorato,250.0,365.0,2.5,13.0,364.0,85.0
+Gamberi,Frutti_Mare,rosa,compatto,marino,tutto_anno,globale,selvatico,crudo,200.0,1.0,18.0,77.0,106.0,0.0
+Quinoa,Cereali,beige,granulare,vegetale,tutto_anno,sudamericano,tradizionale,crudo,500.0,730.0,8.0,13.3,368.0,53.0
+Germogli di Soia,Vegetale,bianco,croccante,vegetale,tutto_anno,asiatico,tradizionale,crudo,200.0,3.0,4.0,90.4,30.0,15.0
+Arachidi,Frutta_Secca,beige,croccante,vegetale,tutto_anno,tropicale,tradizionale,tostato,100.0,180.0,12.0,6.5,567.0,15.0
+Cipolla Rossa,Vegetale,viola,piccante,vegetale,tutto_anno,locale,tradizionale,crudo,150.0,21.0,2.5,89.1,40.0,25.0
+Cetrioli,Vegetale,verde,croccante,vegetale,estate,locale,tradizionale,crudo,200.0,7.0,1.8,95.2,16.0,15.0
+Miso,Condimenti,marrone,denso,vegetale,tutto_anno,asiatico,tradizionale,fermentato,500.0,365.0,8.0,42.6,199.0,21.0
+Tofu,Latticini_Vegetali,bianco,morbido,vegetale,tutto_anno,asiatico,tradizionale,lavorato,400.0,7.0,3.5,85.0,76.0,25.0
+Alga Wakame,Vegetale,verde_scuro,gommoso,marino,tutto_anno,asiatico,tradizionale,essiccato,50.0,730.0,18.0,79.9,45.0,5.0
+Cipollotti,Vegetale,verde_bianco,tenero,vegetale,primavera,locale,tradizionale,crudo,100.0,7.0,2.5,89.8,32.0,15.0
+Cumino,Spezie,marrone,granulare,vegetale,tutto_anno,mediorientale,tradizionale,in_polvere,50.0,730.0,8.0,8.1,375.0,35.0
+Farina di Ceci,Legumi,gialla,polverosa,vegetale,tutto_anno,mediterraneo,tradizionale,macinato,500.0,365.0,4.5,10.8,387.0,35.0
+Orecchiette,Cereali,bianco,concavo,vegetale,tutto_anno,pugliese,tradizionale,pasta,500.0,730.0,1.8,12.0,371.0,45.0
+Cime di Rapa,Vegetale,verde,amarognolo,vegetale,inverno,pugliese,tradizionale,crudo,300.0,5.0,3.0,92.1,22.0,15.0
+Mandorle,Frutta_Secca,bianco_beige,croccante,vegetale,autunno,mediterraneo,tradizionale,pelato,100.0,180.0,28.0,4.4,579.0,15.0
+Sarde,Pesce,argento,compatto,marino,primavera,mediterraneo,selvatico,crudo,200.0,1.0,20.0,72.0,208.0,0.0
+Finocchietto,Vegetale,verde,aromatico,vegetale,primavera,mediterraneo,selvatico,crudo,100.0,7.0,4.0,90.0,31.0,15.0
+Uvetta,Frutta,ambra,dolce,vegetale,tutto_anno,mediterraneo,tradizionale,essiccato,100.0,365.0,15.0,15.5,299.0,64.0
+Pane Integrale,Cereali,marrone,compatto,vegetale,tutto_anno,locale,tradizionale,lavorato,400.0,3.0,3.5,43.0,247.0,55.0
+Pane per Hamburger,Cereali,dorato,soffice,vegetale,tutto_anno,globale,industriale,lavorato,80.0,3.0,4.0,37.0,294.0,75.0
+Lattuga,Vegetale,verde,croccante,vegetale,tutto_anno,locale,tradizionale,crudo,200.0,7.0,1.5,95.6,15.0,10.0
+Formaggio,Latticini,giallo,compatto,animale,tutto_anno,locale,tradizionale,stagionato,200.0,30.0,12.0,37.0,402.0,0.0
+Latte di Cocco,Latticini_Vegetali,bianco,cremoso,vegetale,tutto_anno,tropicale,tradizionale,conservato,400.0,365.0,8.0,67.6,230.0,35.0
+Curry in Polvere,Spezie,giallo,polveroso,vegetale,tutto_anno,indiano,tradizionale,macinato,50.0,730.0,18.0,9.5,325.0,5.0
+Riso Basmati,Cereali,bianco_perla,granulare,vegetale,tutto_anno,indiano,tradizionale,lavorato,500.0,365.0,3.5,12.0,365.0,58.0
+Couscous,Cereali,giallo_chiaro,granulare,vegetale,tutto_anno,nordafricano,tradizionale,lavorato,500.0,365.0,2.8,8.6,376.0,65.0
+Tortillas di Mais,Cereali,giallo,sottile,vegetale,tutto_anno,messicano,tradizionale,lavorato,200.0,7.0,3.0,43.6,218.0,52.0
+Sciroppo d'Acero,Dolcificanti,ambra,viscoso,vegetale,primavera,canadese,tradizionale,estratto,250.0,365.0,25.0,32.0,260.0,54.0
+Coniglio,Carne,bianco_rosa,tenero,animale,tutto_anno,locale,tradizionale,crudo,1200.0,3.0,20.0,76.0,173.0,0.0
+Mirtilli,Frutta,blu,succoso,vegetale,estate,nordico,selvatico,crudo,150.0,7.0,6.0,84.2,57.0,53.0
+Menta,Vegetale,verde,aromatico,vegetale,estate,mediterraneo,tradizionale,fresco,20.0,7.0,4.0,78.6,70.0,5.0
+Gamberi Grandi,Frutti_Mare,rosa,compatto,marino,tutto_anno,globale,selvatico,crudo,300.0,1.0,18.0,77.0,106.0,0.0
+Salsa Rosa,Condimenti,rosa,cremoso,misto,tutto_anno,globale,industriale,preparato,250.0,30.0,6.0,65.0,180.0,15.0
+Teriyaki,Condimenti,marrone_scuro,denso,asiatico,tutto_anno,giapponese,tradizionale,salsa,250.0,365.0,8.0,55.0,120.0,45.0
+Mozzarella,Latticini,bianco,morbido,animale,tutto_anno,locale,tradizionale,fresco,250.0,3.0,18.0,83.0,253.0,0.0
+Cozze,Frutti_Mare,nero_blu,compatto,marino,tutto_anno,mediterraneo,selvatico,crudo,200.0,1.0,15.0,82.0,86.0,0.0
+Aceto di Sherry,Condimenti,marrone,liquido,vegetale,tutto_anno,spagnolo,tradizionale,fermentato,500.0,1095.0,8.0,95.0,22.0,0.0
+Amido di Mais,Cereali,bianco,polvere,vegetale,tutto_anno,globale,industriale,raffinato,500.0,365.0,2.5,12.0,381.0,85.0
+Baccello di Vaniglia,Spezie,marrone_scuro,aromatico,vegetale,tutto_anno,tropicale,tradizionale,essiccato,5.0,730.0,120.0,20.0,288.0,5.0
+Basilico,Vegetale,verde,aromatico,vegetale,estate,mediterraneo,biologico,fresco,15.0,5.0,8.0,92.0,22.0,5.0
+Besciamella,Latticini,bianco,cremoso,animale,tutto_anno,globale,tradizionale,preparato,500.0,3.0,6.0,73.0,151.0,25.0
+Brodo di Pesce,Condimenti,giallo,liquido,marino,tutto_anno,mediterraneo,tradizionale,cotto,1000.0,3.0,8.0,95.0,15.0,0.0
+Buccia di Limone,Vegetale,giallo,aromatico,vegetale,tutto_anno,mediterraneo,biologico,fresco,5.0,14.0,12.0,81.0,47.0,0.0
+Calamari,Frutti_Mare,bianco,compatto,marino,tutto_anno,mediterraneo,selvatico,crudo,300.0,1.0,12.0,78.0,92.0,0.0
+Cannella,Spezie,marrone,polvere,vegetale,tutto_anno,tropicale,tradizionale,essiccato,50.0,1095.0,15.0,10.7,247.0,5.0
+Cioccolato per Glassa,Dolci,marrone_scuro,morbido,vegetale,tutto_anno,globale,industriale,lavorato,200.0,365.0,8.0,1.3,546.0,25.0
+Cipolle,Vegetale,giallo,compatto,vegetale,tutto_anno,globale,tradizionale,fresco,150.0,30.0,1.2,89.1,40.0,15.0
+Cipolle Rosse,Vegetale,rosso,compatto,vegetale,tutto_anno,mediterraneo,biologico,fresco,150.0,30.0,1.8,89.1,40.0,15.0
+Confettura di Albicocche,Dolci,arancione,denso,vegetale,tutto_anno,globale,industriale,conservato,400.0,365.0,4.5,35.0,239.0,55.0
+Crostini di Pane,Cereali,dorato,croccante,vegetale,tutto_anno,globale,artigianale,tostato,100.0,7.0,5.0,7.0,374.0,70.0
+Fagioli,Legumi,bianco,compatto,vegetale,autunno,globale,biologico,secco,200.0,365.0,3.0,12.0,347.0,35.0
+Fagioli Rossi,Legumi,rosso,compatto,vegetale,autunno,americano,biologico,secco,200.0,365.0,3.2,12.0,333.0,35.0
+Funghi Champignon,Vegetale,bianco,morbido,vegetale,tutto_anno,globale,coltivato,fresco,100.0,7.0,4.5,92.4,22.0,10.0
+Gremolata,Condimenti,verde,aromatico,vegetale,tutto_anno,italiano,tradizionale,preparato,50.0,3.0,8.0,75.0,45.0,5.0
+Gruyère,Latticini,giallo,compatto,animale,tutto_anno,svizzero,tradizionale,stagionato,200.0,60.0,18.0,33.0,413.0,0.0
+Hummus,Legumi,beige,cremoso,vegetale,tutto_anno,mediorientale,tradizionale,preparato,250.0,7.0,4.0,60.0,166.0,25.0
+Insalata Iceberg,Vegetale,verde_chiaro,croccante,vegetale,tutto_anno,globale,coltivato,fresco,500.0,7.0,1.5,95.6,14.0,10.0
+Insalata Romana,Vegetale,verde,croccante,vegetale,tutto_anno,mediterraneo,coltivato,fresco,300.0,7.0,2.0,94.6,17.0,10.0
+Lievito in polvere,Cereali,bianco,polvere,vegetale,tutto_anno,globale,industriale,chimico,100.0,730.0,1.5,5.0,53.0,0.0
+Maggiorana,Spezie,verde,aromatico,vegetale,estate,mediterraneo,biologico,essiccato,20.0,365.0,12.0,7.6,271.0,5.0
+Mais,Cereali,giallo,granuloso,vegetale,estate,americano,biologico,fresco,200.0,7.0,2.0,76.0,86.0,60.0
+Manzo,Carne,rosso,compatto,animale,tutto_anno,locale,tradizionale,crudo,500.0,3.0,25.0,75.0,250.0,0.0
+Melanzane,Vegetale,viola,morbido,vegetale,estate,mediterraneo,biologico,fresco,300.0,7.0,2.5,92.3,25.0,15.0
+Olio di Sesamo,Condimenti,dorato,oleoso,vegetale,tutto_anno,asiatico,tradizionale,spremuto,250.0,365.0,15.0,0.0,884.0,0.0
+Olio per Friggere,Condimenti,giallo,oleoso,vegetale,tutto_anno,globale,industriale,raffinato,1000.0,365.0,3.0,0.0,884.0,0.0
+Olive Nere Kalamata,Vegetale,nero,compatto,vegetale,autunno,greco,tradizionale,conservato,100.0,90.0,8.0,78.0,115.0,15.0
+Origano,Spezie,verde,aromatico,vegetale,estate,mediterraneo,biologico,essiccato,20.0,365.0,10.0,9.9,265.0,5.0
+Osso Buco di Vitello,Carne,rosa,compatto,animale,tutto_anno,locale,tradizionale,crudo,800.0,3.0,35.0,76.0,231.0,0.0
+Pane Raffermo,Cereali,marrone,duro,vegetale,tutto_anno,globale,artigianale,secco,200.0,3.0,1.5,35.0,265.0,70.0
+Paprika,Spezie,rosso,polvere,vegetale,tutto_anno,ungherese,tradizionale,essiccato,50.0,730.0,8.0,11.2,282.0,5.0
+Pasta Brisée,Cereali,giallo,compatto,vegetale,tutto_anno,francese,tradizionale,preparato,500.0,3.0,8.0,15.0,458.0,55.0
+Peperoncino,Spezie,rosso,piccante,vegetale,estate,calabrese,piccante,fresco,10.0,14.0,6.0,88.0,40.0,15.0
+Peperoni Rossi,Vegetale,rosso,croccante,vegetale,estate,mediterraneo,biologico,fresco,200.0,7.0,2.8,92.2,31.0,15.0
+Pesce Bianco,Pesce,bianco,delicato,marino,tutto_anno,mediterraneo,selvatico,crudo,400.0,1.0,15.0,78.0,82.0,0.0
+Pomodori,Vegetale,rosso,morbido,vegetale,estate,mediterraneo,biologico,fresco,150.0,7.0,3.0,94.5,18.0,10.0
+Pomodoro,Vegetale,rosso,morbido,vegetale,estate,mediterraneo,biologico,fresco,150.0,7.0,3.0,94.5,18.0,10.0
+Prosciutto Cotto,Carne,rosa,morbido,animale,tutto_anno,globale,industriale,cotto,200.0,7.0,12.0,75.0,145.0,0.0
+Ragù alla Bolognese,Carne,rosso_scuro,denso,misto,tutto_anno,italiano,tradizionale,cotto,500.0,3.0,8.0,70.0,150.0,8.0
+Riso Bomba,Cereali,bianco,granuloso,vegetale,tutto_anno,spagnolo,tradizionale,lavorato,500.0,730.0,4.0,12.0,380.0,70.0
+Riso Carnaroli,Cereali,bianco,granuloso,vegetale,tutto_anno,italiano,tradizionale,lavorato,500.0,730.0,5.0,12.0,380.0,70.0
+Salsa Caesar,Condimenti,bianco,cremoso,misto,tutto_anno,americano,moderno,preparato,250.0,30.0,8.0,55.0,280.0,5.0
+Salsa Teriyaki,Condimenti,marrone_scuro,denso,asiatico,tutto_anno,giapponese,tradizionale,preparato,250.0,365.0,6.0,55.0,120.0,45.0
+Seitan,Proteine,marrone,compatto,vegetale,tutto_anno,asiatico,vegano,preparato,200.0,7.0,8.0,70.0,180.0,15.0
+Semi di Chia,Cereali,nero,granuloso,vegetale,tutto_anno,sudamericano,biologico,secco,200.0,730.0,25.0,6.0,486.0,35.0
+Sesamo,Cereali,bianco,granuloso,vegetale,tutto_anno,asiatico,tradizionale,secco,100.0,365.0,12.0,4.7,573.0,35.0
+Sfoglia per Lasagne,Cereali,giallo,sottile,vegetale,tutto_anno,italiano,tradizionale,preparato,500.0,7.0,3.0,10.0,371.0,60.0
+Soia Salsa,Condimenti,marrone_scuro,liquido,vegetale,tutto_anno,asiatico,tradizionale,fermentato,250.0,730.0,4.0,68.0,60.0,20.0
+Spalla di Manzo,Carne,rosso,compatto,animale,tutto_anno,locale,tradizionale,crudo,1000.0,3.0,22.0,75.0,215.0,0.0
+Tuorli d'Uovo,Uova,giallo,cremoso,animale,tutto_anno,locale,tradizionale,crudo,100.0,3.0,8.0,52.0,322.0,0.0
+Vino Rosso Borgogna,Bevande,rosso_scuro,liquido,vegetale,tutto_anno,francese,tradizionale,fermentato,750.0,1095.0,15.0,86.0,85.0,0.0ingrediente_1,Pomodoro San Marzano,18.0,0.9,2.6999999999999997,Vegetale,falseingrediente_1,Pomodoro San Marzano,18.0,0.9,2.6999999999999997,Vegetale,falsePomodoro San Marzano,Pomodoro San Marzano,18.0,0.9,2.6999999999999997,Vegetale,false

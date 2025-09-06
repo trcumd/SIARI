@@ -1,0 +1,993 @@
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.3.19)  2 SEP 2025 20:32
+ system commands enabled.
+ file:line:error style messages enabled.
+**c:/Users/fonta/Desktop/ICON2/documentazione/main
+(c:/Users/fonta/Desktop/ICON2/documentazione/main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "C:/Users/fonta/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/fonta/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/fonta/AppData
+/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/fonta/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count268
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/babel-italian/italian.l
+df
+Language: italian 2024/10/10 v.1.5.01 Italian support for the babel system
+\it@lettering=\count269
+\it@doublequoteactive=\count270
+\it@ISOcompliance=\count271
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/lo
+adhyph-it.tex UTF-8 Italian hyphenation patterns
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/te
+x/hyph-it.tex)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/qu
+ote/hyph-quote-it.tex))))
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/it/babel
+-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks20
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks21
+\float@box=\box52
+\@float@everytoks=\toks22
+\@floatcapt=\box53
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen152
+))
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count277
+LaTeX Info: Redefining \frac on input line 235.
+\uproot@=\count278
+\leftroot@=\count279
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count280
+\DOTSCASE@=\count281
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count282
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count283
+\dotsspace@=\muskip17
+\c@parentequation=\count284
+\dspbrk@lvl=\count285
+\tag@help=\toks24
+\row@=\count286
+\column@=\count287
+\maxfields@=\count288
+\andhelp@=\toks25
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks26
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks28
+))
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count289
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+ (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+) (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+ (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count293
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen162
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip54
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.sty
+\lst@mode=\count300
+\lst@gtempboxa=\box56
+\lst@token=\toks29
+\lst@length=\count301
+\lst@currlwidth=\dimen165
+\lst@column=\count302
+\lst@pos=\count303
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count304
+\lst@lineno=\count305
+\lst@maxwidth=\dimen168
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count306
+\lst@skipnumbers=\count307
+\lst@framebox=\box57
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count308
+\@cmidlb=\count309
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count310
+\@lastruleclass=\count311
+\@thisrulewidth=\dimen181
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count312
+\multirow@dima=\skip56
+\bigstrutjot=\dimen182
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen183
+\ar@mcellbox=\box58
+\extrarowheight=\dimen184
+\NC@list=\toks30
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box59
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen185
+\captionmargin=\dimen186
+\caption@leftmargin=\dimen187
+\caption@rightmargin=\dimen188
+\caption@width=\dimen189
+\caption@indent=\dimen190
+\caption@parindent=\dimen191
+\caption@hangindent=\dimen192
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count313
+\c@continuedfloat=\count314
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count315
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count316
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/algorithms/algorithm.st
+y
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks31
+\c@algorithm=\count317
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/algorithms/algorithmic.
+sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count318
+\c@ALC@line=\count319
+\c@ALC@rem=\count320
+\c@ALC@depth=\count321
+\ALC@tlm=\skip59
+\algorithmicindent=\skip60
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count322
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box60
+) (./main.aux)
+\openout1 = main.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Info: Redefining \it@ocap on input line 64.
+LaTeX Info: Redefining \it@ccap on input line 64.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count323
+\scratchdimen=\dimen193
+\scratchbox=\box61
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen194
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks33
+)
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 64.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+
+\openout3 = main.out
+\c@lstlisting=\count329
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+
+
+(C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./main.toc
+
+[1
+
+{C:/Users/fonta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+\tf@toc=\write4
+
+\openout4 = main.toc
+
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+22.
+ (C:/Users/fonta/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (5.77475pt too wide) in paragraph at lines 222--223
+[]\T1/lmtt/m/n/12 ricetta(Nome, ListaIngredienti, Calorie, Categoria)\T1/lmr/m/
+n/12 : De-fi-ni-sce ri-cet-te com-
+ []
+
+
+Overfull \hbox (4.36838pt too wide) in paragraph at lines 224--225
+[]\T1/lmtt/m/n/12 contiene(Ricetta, Ingrediente, Quantita)\T1/lmr/m/n/12 : Re-la
+-zio-ni quan-ti-ta-ti-ve ingrediente-
+ []
+
+
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+<dati/elbow_method_ricette.png, id=388, 621.0402pt x 394.5942pt>
+File: dati/elbow_method_ricette.png Graphic file (type png)
+<use dati/elbow_method_ricette.png>
+Package luatex.def Info: dati/elbow_method_ricette.png  used on input line 424.
+
+(luatex.def)             Requested size: 364.19667pt x 231.39963pt.
+
+
+[11<./dati/elbow_method_ricette.png>]
+<dati/cluster_distribution_ricette.png, id=397, 574.5465pt x 373.8768pt>
+File: dati/cluster_distribution_ricette.png Graphic file (type png)
+<use dati/cluster_distribution_ricette.png>
+Package luatex.def Info: dati/cluster_distribution_ricette.png  used on input l
+ine 444.
+(luatex.def)             Requested size: 364.19667pt x 236.99837pt.
+
+
+[12<./dati/cluster_distribution_ricette.png>]
+
+[13]
+<dati/confusion_matrix_randomforest_ricette.png, id=408, 463.0098pt x 394.5942p
+t>
+File: dati/confusion_matrix_randomforest_ricette.png Graphic file (type png)
+<use dati/confusion_matrix_randomforest_ricette.png>
+Package luatex.def Info: dati/confusion_matrix_randomforest_ricette.png  used o
+n input line 537.
+(luatex.def)             Requested size: 145.68144pt x 124.15332pt.
+<dati/confusion_matrix_logisticregression_ricette.png, id=409, 463.0098pt x 394
+.5942pt>
+File: dati/confusion_matrix_logisticregression_ricette.png Graphic file (type p
+ng)
+<use dati/confusion_matrix_logisticregression_ricette.png>
+Package luatex.def Info: dati/confusion_matrix_logisticregression_ricette.png  
+used on input line 542.
+(luatex.def)             Requested size: 145.68144pt x 124.15332pt.
+<dati/confusion_matrix_svm_ricette.png, id=410, 463.0098pt x 394.5942pt>
+File: dati/confusion_matrix_svm_ricette.png Graphic file (type png)
+<use dati/confusion_matrix_svm_ricette.png>
+Package luatex.def Info: dati/confusion_matrix_svm_ricette.png  used on input l
+ine 547.
+(luatex.def)             Requested size: 145.68144pt x 124.15332pt.
+<dati/model_metrics_comparison_ricette.png, id=411, 860.013pt x 569.7285pt>
+File: dati/model_metrics_comparison_ricette.png Graphic file (type png)
+<use dati/model_metrics_comparison_ricette.png>
+Package luatex.def Info: dati/model_metrics_comparison_ricette.png  used on inp
+ut line 560.
+(luatex.def)             Requested size: 409.71692pt x 271.42363pt.
+
+
+[14<./dati/confusion_matrix_randomforest_ricette.png><./dati/confusion_matrix_lo
+gisticregression_ricette.png><./dati/confusion_matrix_svm_ricette.png>]
+<dati/regression_metrics_comparison_ricette.png, id=422, 1076.823pt x 858.8085p
+t>
+File: dati/regression_metrics_comparison_ricette.png Graphic file (type png)
+<use dati/regression_metrics_comparison_ricette.png>
+Package luatex.def Info: dati/regression_metrics_comparison_ricette.png  used o
+n input line 594.
+(luatex.def)             Requested size: 409.71692pt x 326.75685pt.
+
+
+[15<./dati/model_metrics_comparison_ricette.png>]
+<dati/feature_importance_ricette_rf.png, id=431, 859.7721pt x 569.7285pt>
+File: dati/feature_importance_ricette_rf.png Graphic file (type png)
+<use dati/feature_importance_ricette_rf.png>
+Package luatex.def Info: dati/feature_importance_ricette_rf.png  used on input 
+line 605.
+(luatex.def)             Requested size: 409.71692pt x 271.50188pt.
+
+
+[16<./dati/regression_metrics_comparison_ricette.png>]
+Overfull \hbox (92.80368pt too wide) in paragraph at lines 627--636
+ [][] 
+ []
+
+
+
+[17<./dati/feature_importance_ricette_rf.png>]
+<dati/regression_metrics_comparison.png, id=449, 1076.823pt x 858.8085pt>
+File: dati/regression_metrics_comparison.png Graphic file (type png)
+<use dati/regression_metrics_comparison.png>
+Package luatex.def Info: dati/regression_metrics_comparison.png  used on input 
+line 650.
+(luatex.def)             Requested size: 409.71692pt x 326.75685pt.
+
+
+[18]
+<dati/feature_importance_rf.png, id=455, 859.0494pt x 569.7285pt>
+File: dati/feature_importance_rf.png Graphic file (type png)
+<use dati/feature_importance_rf.png>
+Package luatex.def Info: dati/feature_importance_rf.png  used on input line 661
+.
+(luatex.def)             Requested size: 409.71692pt x 271.7279pt.
+
+
+[19<./dati/regression_metrics_comparison.png>]
+<dati/learning_curve_ricette_randomforest_regressor.png, id=462, 715.473pt x 42
+5.1885pt>
+File: dati/learning_curve_ricette_randomforest_regressor.png Graphic file (type
+ png)
+<use dati/learning_curve_ricette_randomforest_regressor.png>
+Package luatex.def Info: dati/learning_curve_ricette_randomforest_regressor.png
+  used on input line 688.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+<dati/learning_curve_ricette_svr.png, id=463, 715.473pt x 425.1885pt>
+File: dati/learning_curve_ricette_svr.png Graphic file (type png)
+<use dati/learning_curve_ricette_svr.png>
+Package luatex.def Info: dati/learning_curve_ricette_svr.png  used on input lin
+e 693.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+
+Underfull \hbox (badness 3396) in paragraph at lines 694--694
+\T1/lmr/m/n/10.95 Training MSE: 12811.31 $\OMS/cmsy/m/n/10.95 $
+ []
+
+<dati/learning_curve_ricette_ridge.png, id=464, 715.473pt x 425.1885pt>
+File: dati/learning_curve_ricette_ridge.png Graphic file (type png)
+<use dati/learning_curve_ricette_ridge.png>
+Package luatex.def Info: dati/learning_curve_ricette_ridge.png  used on input l
+ine 698.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+
+
+[20<./dati/feature_importance_rf.png>]
+<dati/learning_curve_randomforest.png, id=476, 715.473pt x 425.1885pt>
+File: dati/learning_curve_randomforest.png Graphic file (type png)
+<use dati/learning_curve_randomforest.png>
+Package luatex.def Info: dati/learning_curve_randomforest.png  used on input li
+ne 708.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+
+Underfull \hbox (badness 7613) in paragraph at lines 709--709
+\T1/lmr/m/n/10.95 Training MSE: 2857.42 $\OMS/cmsy/m/n/10.95 $
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 709--709
+\T1/lmr/m/n/10.95 Validation MSE: 8411.29 $\OMS/cmsy/m/n/10.95 $
+ []
+
+<dati/learning_curve_svr.png, id=477, 715.7139pt x 425.1885pt>
+File: dati/learning_curve_svr.png Graphic file (type png)
+<use dati/learning_curve_svr.png>
+Package luatex.def Info: dati/learning_curve_svr.png  used on input line 713.
+(luatex.def)             Requested size: 145.68144pt x 86.54137pt.
+
+Underfull \hbox (badness 3396) in paragraph at lines 714--714
+\T1/lmr/m/n/10.95 Training MSE: 11845.47 $\OMS/cmsy/m/n/10.95 $
+ []
+
+<dati/learning_curve_ridge.png, id=478, 715.7139pt x 425.1885pt>
+File: dati/learning_curve_ridge.png Graphic file (type png)
+<use dati/learning_curve_ridge.png>
+Package luatex.def Info: dati/learning_curve_ridge.png  used on input line 718.
+
+(luatex.def)             Requested size: 145.68144pt x 86.54137pt.
+
+Underfull \hbox (badness 3396) in paragraph at lines 719--719
+\T1/lmr/m/n/10.95 Training MSE: 11262.36 $\OMS/cmsy/m/n/10.95 $
+ []
+
+<dati/learning_curve_ricette_randomforest_classifier.png, id=479, 715.473pt x 4
+25.1885pt>
+File: dati/learning_curve_ricette_randomforest_classifier.png Graphic file (typ
+e png)
+<use dati/learning_curve_ricette_randomforest_classifier.png>
+Package luatex.def Info: dati/learning_curve_ricette_randomforest_classifier.pn
+g  used on input line 732.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+<dati/learning_curve_ricette_svm_classifier.png, id=480, 715.473pt x 425.1885pt
+>
+File: dati/learning_curve_ricette_svm_classifier.png Graphic file (type png)
+<use dati/learning_curve_ricette_svm_classifier.png>
+Package luatex.def Info: dati/learning_curve_ricette_svm_classifier.png  used o
+n input line 737.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+<dati/learning_curve_ricette_logisticregression_classifier.png, id=481, 715.473
+pt x 425.1885pt>
+File: dati/learning_curve_ricette_logisticregression_classifier.png Graphic fil
+e (type png)
+<use dati/learning_curve_ricette_logisticregression_classifier.png>
+Package luatex.def Info: dati/learning_curve_ricette_logisticregression_classif
+ier.png  used on input line 742.
+(luatex.def)             Requested size: 145.68144pt x 86.5738pt.
+
+
+[21<./dati/learning_curve_ricette_randomforest_regressor.png><./dati/learning_cu
+rve_ricette_svr.png><./dati/learning_curve_ricette_ridge.png><./dati/learning_cu
+rve_randomforest.png><./dati/learning_curve_svr.png><./dati/learning_curve_ridge
+.png><./dati/learning_curve_ricette_randomforest_classifier.png><./dati/learning
+_curve_ricette_svm_classifier.png><./dati/learning_curve_ricette_logisticregress
+ion_classifier.png>]
+
+[22]
+
+[23] (./main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 393126362C0D8E7FDBDF4A3FE7C16111;13231.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 16230 strings out of 475506
+ 100000,953878 words of node,token memory allocated
+ 549 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 10 attribute, 57 glue_spec
+, 7 attribute_list, 1 write nodes
+   avail lists: 1:1,2:1525,3:426,4:336,5:505,6:126,7:6998,8:2,9:687,10:20,11:113
+5
+ 38712 multiletter control sequences out of 65536+600000
+ 69 fonts using 4299535 bytes
+ 72i,10n,75p,891b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
+sers/fonta/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users
+/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmbx10.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmbx12.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/lm/lmr10.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/lm/lmr12.pfb><C:/Users/fonta/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmtt12.pfb>
+Output written on main.pdf (23 pages, 3745286 bytes).
+
+PDF statistics: 547 PDF objects out of 1000 (max. 8388607)
+ 137 named destinations out of 1000 (max. 131072)
+ 489 words of extra memory for PDF output out of 10000 (max. 100000000)
+
